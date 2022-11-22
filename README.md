@@ -4,9 +4,9 @@ I did machine learning car price project.
 Now, I'm building FIFA player value predict.
 After then, I'm gonna do web scrapping, and predict house price in Edirne.
 
-🔭 I’m currently working on FIFA player value predict.
-🌱 I’m currently learning Machine Learning
-📫 How to reach me: mtoktas252@gmail.com
+🔭 I’m currently working on FIFA player value predict.  
+🌱 I’m currently learning Machine Learning.  
+📫 How to reach me: mtoktas252@gmail.com.  
 <!--
 **mehmettoktas/mehmettoktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
