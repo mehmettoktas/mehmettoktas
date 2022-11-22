@@ -1,8 +1,8 @@
 ### Hi there 👋
 It's Mehmet Toktaş. I'm a industrial engineering student at Yıldız Teknik University. Currently improve my Data Scientist skills, and doing some projects related with this field. 
-I did machine learning car price project.
-Now, I'm building FIFA player value predict.
-After then, I'm gonna do web scrapping, and predict house price in Edirne.
+I did machine learning car price project.  
+Now, I'm building FIFA player value predict.  
+After then, I'm gonna do web scrapping, and predict house price in Edirne.  
 
 🔭 I’m currently working on FIFA player value predict.  
 🌱 I’m currently learning Machine Learning.  
